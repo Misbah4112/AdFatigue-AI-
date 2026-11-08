@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+scikit-learn
+ruptures
+plotly
+streamlit
+matplotlib

@@ -1,0 +1,11 @@
+ad_id,behavior,fatigue_start_day
+AD_001,stable,
+AD_002,stable,
+AD_003,stable,
+AD_004,stable,
+AD_005,gradual_fatigue,30.0
+AD_006,gradual_fatigue,30.0
+AD_007,gradual_fatigue,30.0
+AD_008,sudden_fatigue,35.0
+AD_009,sudden_fatigue,35.0
+AD_010,sudden_fatigue,35.0

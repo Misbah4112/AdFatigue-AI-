@@ -1,0 +1,36 @@
+/* Positive performance indicators */
+
+.performance-improving {
+    color: #22C55E;
+    font-weight: 700;
+}
+
+/* Negative performance indicators */
+
+.performance-deteriorating {
+    color: #EF4444;
+    font-weight: 700;
+}
+
+/* Mixed performance indicators */
+
+.performance-mixed {
+    color: #FACC15;
+    font-weight: 700;
+}
+
+/* Change analysis tables */
+
+div[data-testid="stDataFrame"] {
+    background-color: #111827;
+    border: 1px solid #263247;
+    border-radius: 12px;
+}
+
+/* Chart containers */
+
+div[data-testid="stPlotlyChart"] {
+    border: 1px solid #263247;
+    border-radius: 12px;
+    overflow: hidden;
+}
