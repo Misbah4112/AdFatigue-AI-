@@ -17,5 +17,5 @@ Upload a CSV containing these columns:
 
 date, ad_id, impressions, clicks, spend, conversions, frequency
 
-# The app includes a User Guide and Technology & Algorithms tab for more details.
-# Note: This is a portfolio prototype tested with synthetic advertising data. Its fatigue-risk score is rule-based and indicates potential warning signs, not a confirmed diagnosis or prediction of ad fatigue.
+### The app includes a User Guide and Technology & Algorithms tab for more details.
+### Note: This is a portfolio prototype tested with synthetic advertising data. Its fatigue-risk score is rule-based and indicates potential warning signs, not a confirmed diagnosis or prediction of ad fatigue.
